@@ -1,6 +1,6 @@
 # awesome-foosball
 
-Useful resources for foosball 
+Useful resources for foosball.
 
 ### Grip
 
