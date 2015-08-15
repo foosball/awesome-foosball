@@ -1,5 +1,7 @@
 # awesome-foosball
 
+Useful resources for foosball 
+
 ### Grip
 
 * [Pullshot Grip](https://www.youtube.com/watch?v=lrhKZwEOKHY)
